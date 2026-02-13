@@ -46,10 +46,8 @@ The main goal of this project was to practice and improve my frontend developmen
 Mentorship-Dashboard
 │
 ├── index.html
-└── style.css
 ```
 
----
 ---
 
 ## 📸 Project Preview
